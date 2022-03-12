@@ -7727,6 +7727,36 @@
         "design",
         "code"
       ]
+    },
+    {
+      "login": "aleksey00",
+      "name": "Aleksey Khoroshilov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56565199?v=4",
+      "profile": "https://www.xyz-media.com/avocado",
+      "contributions": [
+        "design",
+        "code"
+      ]
+    },
+    {
+      "login": "arjunsrsr",
+      "name": "arjunsrsr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100687528?v=4",
+      "profile": "https://github.com/arjunsrsr",
+      "contributions": [
+        "design",
+        "code"
+      ]
+    },
+    {
+      "login": "haydher",
+      "name": "Ali Haider",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70679209?v=4",
+      "profile": "https://haydher.com/",
+      "contributions": [
+        "design",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
